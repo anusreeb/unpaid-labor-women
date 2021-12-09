@@ -6,4 +6,4 @@ The definition of 'unpaid labor', from the website below, includes but isn't lim
 
 https://datahub.io/world-bank/sg.tim.uwrk.fe
 
-To run this notebook, create a virtual environment using Python 2.7. After activating the virtual environment, run 'pip -r requirements.txt'. Then run the 'jupyter notebook' command to launch the notebook. 
+To run this notebook, create a virtual environment. After activating the virtual environment, run 'pip -r requirements.txt'. Then run the 'jupyter notebook' command to launch the notebook. 
