@@ -103,4 +103,4 @@ urllib3==1.26.7
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.2.1
-Werkzeug==2.0.2
+Werkzeug==2.2.3
